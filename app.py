@@ -13,7 +13,7 @@ from PIL import Image
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="KEA Comprehensive School Management System",
+    page_title="School Results Management System",
     page_icon="🏫",
     layout="wide",
     initial_sidebar_state="expanded"
